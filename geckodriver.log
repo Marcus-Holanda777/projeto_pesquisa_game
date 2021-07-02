@@ -11,3 +11,17 @@ JavaScript error: , line 0: uncaught exception: undefined
 JavaScript error: https://www.magazineluiza.com.br/busca/console%20ps4/, line 246: ReferenceError: googletag is not defined
 JavaScript error: https://www.magazineluiza.com.br/busca/console%20ps4/, line 1196: ReferenceError: googletag is not defined
 1622817505360	Marionette	INFO	Stopped listening on port 63494
+1625249930137	geckodriver	INFO	Listening on 127.0.0.1:55029
+1625249930586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\26834\\AppData\\Local\\Temp\\rust_mozprofile12MhJp"
+1625249937093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\26834\\AppData\\Local\\Temp\\rust_mozprofile12MhJp\\search.json.mozlz4", (void 0)))
+1625249941715	Marionette	INFO	Listening on port 55034
+1625249942252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/974c7728ded827027a4193056e55f342c6b84f52/satelliteLib-5d28b7a6cdd6de05c1c136e5a2390a3b7e04e14e.js, line 8: TypeError: _satellite.getVisitorId() is null
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.casasbahia.com.br/akam-sw.js for scope https://www.casasbahia.com.br/ encountered an error during installation.
+JavaScript error: https://www.magazineluiza.com.br/busca/console%20ps4/, line 246: ReferenceError: googletag is not defined
+JavaScript error: https://www.magazineluiza.com.br/busca/console%20ps4/, line 1196: ReferenceError: googletag is not defined
+1625249978725	Marionette	INFO	Stopped listening on port 55034
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

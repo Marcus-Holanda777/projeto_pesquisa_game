@@ -10,7 +10,7 @@ Backup of *.doc*
 ~$*.xls*
 
 # Excel temporary xlsx
-~$*.xlsx*
+*.xlsx
 
 # Excel Backup File
 *.xlk
