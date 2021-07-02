@@ -1,0 +1,13 @@
+1622817454731	geckodriver	INFO	Listening on 127.0.0.1:63489
+1622817455257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\26834\\AppData\\Local\\Temp\\rust_mozprofile93lt25"
+1622817462905	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\26834\\AppData\\Local\\Temp\\rust_mozprofile93lt25\\search.json.mozlz4", (void 0)))
+1622817468347	Marionette	INFO	Listening on port 63494
+1622817468521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/974c7728ded827027a4193056e55f342c6b84f52/satelliteLib-5d28b7a6cdd6de05c1c136e5a2390a3b7e04e14e.js, line 8: TypeError: _satellite.getVisitorId() is null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.casasbahia.com.br/akam-sw.js for scope https://www.casasbahia.com.br/ encountered an error during installation.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.magazineluiza.com.br/busca/console%20ps4/, line 246: ReferenceError: googletag is not defined
+JavaScript error: https://www.magazineluiza.com.br/busca/console%20ps4/, line 1196: ReferenceError: googletag is not defined
+1622817505360	Marionette	INFO	Stopped listening on port 63494
